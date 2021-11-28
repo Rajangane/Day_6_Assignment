@@ -2,4 +2,5 @@
 //Console.WriteLine("************** Logical Programs *****************");
 using Day6_Assignment;
 //FibonacciSeries.CalculateFibonacci();
-new PerfectNum().Perfect();
+//new PerfectNum().Perfect();
+new Prime().displayPrime();
