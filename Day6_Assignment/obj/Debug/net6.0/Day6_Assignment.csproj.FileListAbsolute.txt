@@ -1,0 +1,15 @@
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\bin\Debug\net6.0\Day6_Assignment.exe
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\bin\Debug\net6.0\Day6_Assignment.deps.json
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\bin\Debug\net6.0\Day6_Assignment.runtimeconfig.json
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\bin\Debug\net6.0\Day6_Assignment.dll
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\bin\Debug\net6.0\ref\Day6_Assignment.dll
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\bin\Debug\net6.0\Day6_Assignment.pdb
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.csproj.AssemblyReference.cache
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.AssemblyInfoInputs.cache
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.AssemblyInfo.cs
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.csproj.CoreCompileInputs.cache
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.dll
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\ref\Day6_Assignment.dll
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.pdb
+D:\bridzlabz\Day6_Assignment\Day6_Assignment\obj\Debug\net6.0\Day6_Assignment.genruntimeconfig.cache
