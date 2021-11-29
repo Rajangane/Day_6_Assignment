@@ -3,4 +3,5 @@
 using Day6_Assignment;
 //FibonacciSeries.CalculateFibonacci();
 //new PerfectNum().Perfect();
-new Prime().displayPrime();
+//new Prime().displayPrime();
+new ReverseNum().Reverse();
